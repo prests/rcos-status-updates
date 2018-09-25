@@ -1,22 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Last week I worked on learning android studio and refamiliarizing myself with coding in java, because it's been a while. I followed youtube tutorials on test projects to learn more about linking the visual aspects with the actual code.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> This week I plan to begin class hierarchy, evaluate system design, and just keep getting better with android studio. We also want to get a Google Maps API key to mess around with that.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> No blocks right now.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> 

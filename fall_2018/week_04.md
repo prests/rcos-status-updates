@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Worked on profile page for fraternity
+> Worked on profile page for fraternity. I worked mainly on the XML file the is used to structure all the different entities on a page. Right now it's fairly static because I haven't made any of the classes for the app. The goal of this is to be able to make one call when the app is loading to get all the data for the page. I am still fairly new to android studio so this may prove troublesome. 
 
 ## This Week's Plan
 

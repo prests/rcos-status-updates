@@ -1,6 +1,6 @@
 #### Status Report
 
-This semester I expanded my horizons, and I went into a field of Computer Science that I've never explored before. I piloted the devlopment of RushMe's Android app. While I had plenty of experience coding in java, I did not have any experience programming in java for an app. There was a big learning curve for me and I had to watch a lot of videos and read through a lot of documentation to start going. I started using Android Studio which was a new IDE that was intimidating at first. Android Studio allows you not only to code java classes and methods to perform certain tasks but to edit XML files on the fly which are the setup for all the pages seen in an Android app. XML files are similar structure to that of HTML files but customization can be done right on the file and not need something like CSS.
+This semester I expanded my horizons, and I went into a field of Computer Science that I've never explored before. I piloted the development of RushMe's Android app. While I had plenty of experience coding in java, I did not have any experience programming in java for an app. There was a big learning curve for me and I had to watch a lot of videos and read through a lot of documentation to start going. I started using Android Studio which was a new IDE that was intimidating at first. Android Studio allows you not only to code java classes and methods to perform certain tasks but to edit XML files on the fly which are the setup for all the pages seen in an Android app. XML files are similar structure to that of HTML files but customization can be done right on the file and not need something like CSS.
 
 When I first started I primarily made static apps that didn't do much other than add things together and print on a screen. This was just so I learned how to link an element in an XML file to a variable in a java file. With this link I could make edits in the java file and then have them appear on the app's XML page.
 
@@ -13,3 +13,13 @@ Towards the end of the semester I started to work with passing information betwe
 With the close of this semester I am working with a package called glide that is used for taking images and loading them. Glide also applies edits to images if you want them to have certain shapes and sizes. I am currently working with glide to try and learn about it so I can implement this into the app. Once this is done I will start making calls to our AWS S3 bucket so we can get real images and real data for fraternities.
 
 This was my first semester of RCOS and I plan to work on the RushMe app over break and during next spring. It's a lot of fun having a class where you can pick a problem you want and just work on it with no need to match teaching styles and extra documentation for teachers. I look forward to doing this more in the future.
+
+#### Technologies Learned
++ Android Studio UI
++ Android Studio XML Editor
++ Android Studio Activities
++ Android Studio Intents
+
+#### Are you going to continue with the project?
+
+Yes

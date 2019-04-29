@@ -1,15 +1,15 @@
 ## Last Week's Accomplishments
 
-> I have finished documenting the project for future semesters. This is my final semester at RPI since I'm graduating and I really want this project to continue onwards. I believe that great documentation is the secret to any project succeeding. I learned a lot of new methodolgies in order to work in an Android Studio environment so I want to speed up that learning curve for new people.
+> This week I spent most of my time preparing for the presentation for the class. My capstone and my operating systems class has picked up a lot so a lot of my time is devoted to that.
 
 ## This Week's Plan
 
-> I've been on and off doing coding and doing documenation
+> I plan to work on a list of showing all the fraternities in the application. This is one of the last features that I want to work on before graduating, which I believe would put the project at a great spot for future semesters.
 
 ## Anything Blocking?
 
-> This week is exam 2 for operating systems so a lot of my energy is being sent to that.
+> My course load.
 
 ## Notes
 
-> I keep saying I'm going back to the codebase but I keep running into other things that block me.
+> 
